@@ -1,0 +1,19 @@
+{
+  "name": "part-3",
+  "version": "1.0.0",
+  "description": "Namaste React by Rashika",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashVeera/Namaste-React.git"
+  },
+  "author": "Rashika Veera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashVeera/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/RashVeera/Namaste-React#readme"
+}
