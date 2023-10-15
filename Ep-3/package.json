@@ -1,0 +1,30 @@
+{
+  "name": "ep-3",
+  "version": "1.0.0",
+  "description": "Episode 3",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashVeera/Namaste-React.git"
+  },
+  "author": "Rashika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashVeera/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/RashVeera/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
